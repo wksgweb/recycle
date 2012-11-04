@@ -1,0 +1,20 @@
+@charset "shift_jis";
+/* CSS Document */
+
+#topImage {
+	padding-top: 11px;	
+}
+
+#topParagraph p {
+	font-size: 0.857em;
+	text-indent: 1.0em;
+	margin-bottom: 10px;
+}
+
+h2 {
+	margin-top: 30px;	
+}
+
+#indexLink p {
+	margin-bottom: 10px;
+}

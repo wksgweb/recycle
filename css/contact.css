@@ -1,0 +1,90 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/* formContents */
+#formContents {	
+}
+
+.alphanum {
+	ime-mode: disabled;
+}
+
+.colright {
+	border-left: 3px solid #e7e7e7;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#formContents caption {
+	background: #349999;
+	border-bottom: 5px solid #6a9999;
+	color: #ffffff;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#formContents th,
+#formContents td {
+	border-bottom: 1px dotted #e7e7e7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#formContents th {
+	width: 170px;
+	vertical-align: top;
+}
+
+#formContents td {
+	width: 350px;
+}
+
+#formSubmit {
+}
+
+#formSubmitInner {
+	width: 350px;
+	margin: 0 auto;
+}
+
+.submitbtn {
+	background: none repeat scroll 0 0 #349999;
+	border: 0 solid #a2b9e1;
+	color: #ffffff;
+	cursor: pointer;
+	margin-right: 30px;
+	padding:5px 30px;
+}
+
+.resetbtn {
+	background: none repeat scroll 0 0 #cccccc;
+	border: 0 solid #eeeeee;
+	color: #333333;
+	cursor: pointer;
+	margin-right: 10px;
+	padding: 5px 30px;
+}
+
+/* mailInfo */
+#mailInfo {
+	background: url(../contact/img/envelope.jpg) no-repeat 15px 50px;
+	border: 1px solid #cbcbcb;
+	height: 140px;
+	width: 410px;
+	margin: 0 auto;
+	margin-top: 50px;	
+}
+
+#mailInfo p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#mailInfoInner {
+	margin-top: 25px;
+	margin-left: 105px;	
+}

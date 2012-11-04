@@ -1,0 +1,34 @@
+@charset "shift_jis";
+/* CSS Document */
+
+p {
+	margin-bottom: 20px;
+}
+
+dd {
+	text-align: center;
+	width: 260px;
+}
+
+dl {
+	float: left;
+}
+
+.figure {
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+
+.use {
+	letter-spacing: 0.1em;
+}
+
+.use1 {
+	float: left;
+	width: 310px;
+}
+
+.use2 {
+	float: left;
+	width: 310px;
+}

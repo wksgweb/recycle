@@ -1,0 +1,19 @@
+@charset "shift_jis";
+/* CSS Document */
+
+#three {
+}
+
+#threeBeforeAfter,
+#threeFeature,
+#threeProperties {
+	margin-top: 20px;	
+}
+
+#threeBeforeAfter {
+}
+
+#threeOtherTitle {
+	margin-top: 60px;
+	margin-bottom: 10px;	
+}

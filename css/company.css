@@ -1,0 +1,40 @@
+@charset "shift_jis";
+/* CSS Document */
+
+/* 会社概要 */
+#companyProfile{
+}
+
+.companyParagraph p {
+	margin-bottom: 10px;
+	text-indent: 1em;
+}
+
+#presidentName {
+	text-align: right;	
+}
+
+#profileTable {
+	margin-top: 50px;
+}
+
+#profileTable th,
+#profileTable td {
+	padding-top: 15px;
+	padding-bottom: 20px;
+}
+
+#profileTable th {
+	border-top: 2px solid #349999;
+	width: 9em;
+}
+
+#profileTable td {
+	border-top: 2px solid #dadada;
+	padding-right: 5em;
+}
+
+/* アクセスマップ */
+#accessMap {
+	margin-top: 30px;
+}

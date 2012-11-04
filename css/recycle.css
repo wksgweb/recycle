@@ -1,0 +1,32 @@
+@charset "shift_jis";
+/* CSS Document */
+
+#recycle {
+}
+
+#recycleExplanation p {
+	margin-bottom: 20px;
+}
+
+#standard h3 {
+	float: left;
+	width: 350px;	
+}
+
+#standard span {
+	color: #666;
+	font-size: 0.857em;
+	padding-top: 10px;
+	width: 300px;
+}
+
+#example {
+}
+
+.pictureFrame {
+	border: 1px solid #c9c9c9;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}

@@ -1,0 +1,26 @@
+@charset "shift_jis";
+/* CSS Document */
+
+#privacypolicy {
+}
+
+#privacypolicy p {
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+#privacypolicy span {
+	font-weight: normal;
+}
+
+#privacypolicy li {
+	list-style: decimal;
+	font-weight: bold;
+	margin-left: 30px;
+}
+
+.indent {
+	text-indent:-1.8em;
+	padding-left:1.8em;	
+}
